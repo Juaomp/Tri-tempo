@@ -1,6 +1,4 @@
-# Tri Tempo
-
-# Aplicativo de Clima com API
+# Tri Tempo - Aplicativo de Clima com API
 
 ## Visão Geral
 
